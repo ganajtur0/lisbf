@@ -1,6 +1,6 @@
 # LISbf
 
-[brainfuck](https://esolangs.org/wiki/Brainfuck) fordító [LISP](https://hu.wikipedia.org/wiki/Lisp_(programoz%C3%A1si_nyelv)-ben.
+[brainfuck](https://esolangs.org/wiki/Brainfuck) fordító [LISP](https://hu.wikipedia.org/wiki/Lisp_(programoz%C3%A1si_nyelv))-ben.
 
 Elég primitív.
 REPL-ben, miután
